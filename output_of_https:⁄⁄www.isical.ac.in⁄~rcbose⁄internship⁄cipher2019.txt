@@ -1,0 +1,4 @@
+Most probable length of key =  8
+
+ZZZZZZZZ
+ 
