@@ -1,3 +1,5 @@
+Here are the 26 possible different outcomes by exhaustive key search:
+
 beeakfydjxuqyhyjiqryhtyjiqfbqduyjiikfuhcqd
 addzjexciwtpxgxihpqxgsxihpeapctxihhjetgbpc
 zccyidwbhvsowfwhgopwfrwhgodzobswhggidsfaob
@@ -27,4 +29,4 @@ cffblgzekyvrzizkjrsziuzkjrgcrevzkjjlgvidre
  
 
  
-look up in the air its a bird its a plane its superman
+Line 19 decrypts a meaningful english sentence: look up in the air its a bird its a plane its superman
