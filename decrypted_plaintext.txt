@@ -1,3 +1,5 @@
+The following output is obtained using exhaustive key search of the autokey cipher:
+
 moxyxpluhabtxsbrxaaliyxzxum
 lpwzwqkvgbauwtaswbzmhzwawvl
 kqvavrjwfczvvuztvcyngavbvwk
@@ -24,4 +26,6 @@ qkbublpqlwfpbofnbwehmubvbqq
 plavamorkxeqapeoaxdilvawarp
 omzwznnsjydrzqdpzycjkwzxzso
 nnyxyomtizcsyrcqyzbkjxyyytn
+
+Line 22 decrypts to a meaningful english sentence : there is no time like the present
  
